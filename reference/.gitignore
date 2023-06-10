@@ -1,0 +1,11 @@
+# 模型
+*.h5
+*.pt
+# 数据集
+*.tsv
+*.csv
+*.txt
+
+# From_XZK
+From_XZK/*
+

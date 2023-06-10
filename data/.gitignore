@@ -1,0 +1,9 @@
+# 去掉数据
+*.npy
+*.csv
+# 处理过的数据
+train_and_val/
+# 归一化实例
+*_scaler.sav
+# 预测结果
+predicted/
